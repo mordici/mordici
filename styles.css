@@ -1,0 +1,29 @@
+﻿body {
+	background-color: #FFFFCC;
+	font-style: italic;
+}
+.style1 {
+	margin-left: 0px;
+}
+.style2 {
+	text-align: center;
+	font-size: 18pt;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bold;
+	text-decoration: none;
+}
+.style3 {
+	font-size: medium;
+}
+.style4 {
+	text-decoration: underline;
+}
+.style5 {
+	font-family: "Times New Roman CYR";
+	font-size: medium;
+	text-decoration: none;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: normal;
+}
