@@ -1,0 +1,23 @@
+input {
+
+    font-family:Times New Roman; 
+
+}
+
+textarea{
+
+    border-color:blue;
+
+    font-size:19px;
+
+    font-family:Times New Roman;
+
+}
+
+#txt{
+
+    font-family:Times New Roman;
+
+    font-style:italic;
+
+}
